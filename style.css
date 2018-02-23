@@ -1,0 +1,125 @@
+body {
+  font-family: Arial;
+  line-height: 1.4em;
+  background-color: ivory;
+  padding: 24px;
+  border: 15px solid papayawhip;
+
+}
+
+
+article {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+	color: darkgoldenrod; 
+	background-color: white;
+	font-size: 3rem; 
+	font-family: dancing script; 
+	text-align: center;
+	font-size: 70px;
+	padding: 50px;
+	margin: 20px;
+} 
+
+#vyinning-img { 
+	height: 300px;
+	padding:30px;
+	display: block;
+	margin: auto;
+	background-color: white;
+}
+h2 {
+	color: darkgoldenrod; 
+	font-size: 3rem; 
+	font-family: dancing script;
+	text-align: center;
+	padding: 24px;
+}
+
+#penang-img {
+	height: 200px;
+	padding:30px;
+	display: block;
+	margin: auto;
+	border-radius: 100px;
+	border: 10px solid mistyrose;
+}
+
+p {
+	color: palevioletred;
+	font-family: "Bellefair";
+	text-align: center;
+	padding: 24px;
+	font-size: 1.2rem; 
+}
+
+h3 {
+	color: 	darkgoldenrod; 
+	font-size: 3rem; 
+	font-family: dancing script;
+	text-align: center;
+	padding: 24px;
+
+}
+
+iframe {
+	display: block;
+	margin: auto;
+	padding: 24px;
+	border: 10px solid mistyrose;
+	border-radius: 20px;
+
+}
+
+p {
+	color: palevioletred;
+	font-family: "Bellefair";
+	text-align: center;
+	padding: 24px;
+	font-size: 1.2rem; 
+}
+
+h4 {
+	color: darkgoldenrod; 
+	font-size: 3rem; 
+	font-family: dancing script;
+	text-align: center;
+	padding: 24px;
+}
+#family-img {
+	height: 400px;
+	padding:30px;
+	display: block;
+	margin: auto;
+	border-radius: 100px;
+	border: 10px solid mistyrose;
+}
+
+ul {
+	font-family: "Bellefair";
+	text-align: center;
+	padding: 24px;
+	border: 10px solid mistyrose;
+}
+
+#fb-img {
+	height: 50px;
+	padding:30px;
+	display: block;
+	margin: auto;
+	border-radius: 30px;
+}
+
+#insta-img {
+	height: 60px;
+	width: 60px
+	padding:30px;
+	display: block;
+	margin: auto;
+	border-radius: 20px;
+}
+
+.red {colour: red;}
